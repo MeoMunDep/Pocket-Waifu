@@ -5,5 +5,7 @@
   "upgradeBoosts": true,
   "howManyLevels_MultiTap": 5,
   "howManyLevels_EneryLimit": 5,
-  "buyWaifuCards": true
+  "buyWaifuCards": true,
+  "delayEachAccount": [1, 81],
+  "referralCode": "LUQ2XURY"
 }
