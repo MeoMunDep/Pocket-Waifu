@@ -50,7 +50,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 }
 ```
 
-### 2. `datas.txt` 🗂️ - Get data from [here](https://t.me/KeoAirDropFreeNe/257/34747)
+### 2. `datas.txt` 🗂️ - Get data from [here](https://t.me/KeoAirDropFreeNee/1521)
 
 ```txt
 ey...
