@@ -46,7 +46,6 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
   "buyWaifuCards": true,
   "limit": 5, //number of accounts run 1 a row
   "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
 }
 ```
 
