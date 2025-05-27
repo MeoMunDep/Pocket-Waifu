@@ -32,7 +32,6 @@ create_default_configs() {
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
   "upgradeBoosts": true,
   "howManyLevels_MultiTap": 5,
   "howManyLevels_EneryLimit": 5,
@@ -72,7 +71,7 @@ while true; do
             clear
             print_yellow "Installing/Updating Node.js dependencies..."
             cd "$MODULES_DIR"
-            npm install user-agents axios colors p-limit https-proxy-agent socks-proxy-agent crypto-js ws uuid xlsx readline-sync
+            npm install user-agents axios meo-forkcy-colors https-proxy-agent socks-proxy-agent 
             cd - > /dev/null
             print_green "Dependencies installation completed!"
             read -p "Press Enter to continue..."
@@ -114,7 +113,7 @@ while true; do
             else
                 print_green "Using node_modules from current directory"
             fi
-            cd "pocket waifu" && node bot
+            node meomundep
             read -p "Press Enter to continue..."
             ;;
         4)
